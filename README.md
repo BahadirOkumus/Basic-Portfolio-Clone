@@ -1,2 +1,3 @@
 # Basic-Portfolio-Clone
-A portfolio that has been recloned using a ready-made portfolio template.
+A portfolio recloned using a ready-made template with HTML and CSS.
+
